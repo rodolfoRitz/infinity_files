@@ -1,1 +1,1 @@
-# infinity_files
+# Repositório destinado aos exercícios avaliativos do site.
